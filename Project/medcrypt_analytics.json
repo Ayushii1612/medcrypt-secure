@@ -1,0 +1,100 @@
+{
+  "operations": [
+    {
+      "timestamp": "2025-11-07T08:22:48.851695",
+      "type": "system_init",
+      "details": {
+        "timestamp": "2025-11-07T08:22:48.851680"
+      }
+    },
+    {
+      "timestamp": "2025-11-07T08:23:14.260822",
+      "type": "system_init",
+      "details": {
+        "timestamp": "2025-11-07T08:23:14.260808"
+      }
+    },
+    {
+      "timestamp": "2025-11-07T08:32:37.192804",
+      "type": "system_init",
+      "details": {
+        "timestamp": "2025-11-07T08:32:37.192789"
+      }
+    },
+    {
+      "timestamp": "2025-11-07T08:33:05.252531",
+      "type": "system_init",
+      "details": {
+        "timestamp": "2025-11-07T08:33:05.252515"
+      }
+    },
+    {
+      "timestamp": "2025-11-07T08:36:58.087633",
+      "type": "encryption",
+      "details": {
+        "size": 880,
+        "duration": 0.020159006118774414,
+        "entropy": 7.769529856564922
+      }
+    },
+    {
+      "timestamp": "2025-11-07T08:37:04.684772",
+      "type": "encryption",
+      "details": {
+        "size": 880,
+        "duration": 0.011450767517089844,
+        "entropy": 7.796836672090412
+      }
+    },
+    {
+      "timestamp": "2025-11-07T08:38:11.485768",
+      "type": "encryption",
+      "details": {
+        "size": 880,
+        "duration": 0.009744405746459961,
+        "entropy": 7.7847195256803445
+      }
+    }
+  ],
+  "reports": [
+    {
+      "report_id": "RPT1762484810",
+      "age": "45",
+      "gender": "Male",
+      "blood_group": "O+",
+      "diagnosis": "Type 2 Diabetes",
+      "symptoms": "Increased thirst, frequent urination, fatigue",
+      "department": "Endocrinology",
+      "visit_date": "2025-11-06",
+      "timestamp": "2025-11-07T08:36:50.418209"
+    }
+  ],
+  "security_events": [],
+  "performance_metrics": [
+    {
+      "timestamp": "2025-11-07T08:36:58.086246",
+      "operation": "encryption",
+      "duration_seconds": 0.020159006118774414,
+      "data_size_bytes": 880,
+      "throughput_mbps": 0.041630693174695164
+    },
+    {
+      "timestamp": "2025-11-07T08:37:04.682321",
+      "operation": "encryption",
+      "duration_seconds": 0.011450767517089844,
+      "data_size_bytes": 880,
+      "throughput_mbps": 0.07329058049471142
+    },
+    {
+      "timestamp": "2025-11-07T08:38:11.483043",
+      "operation": "encryption",
+      "duration_seconds": 0.009744405746459961,
+      "data_size_bytes": 880,
+      "throughput_mbps": 0.08612463605001101
+    }
+  ],
+  "user_activities": [],
+  "disease_statistics": {
+    "Type 2 Diabetes": 1
+  }
+}
